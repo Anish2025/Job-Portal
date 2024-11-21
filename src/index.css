@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo{
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+.input{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+ 
+}
+.job-title{
+    font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+.card-detail{
+    font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+.logo-color{
+
+        font-size: 30px;
+        background: -webkit-linear-gradient(#eee, #ce53f0);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      
+}
+.card-details{
+    font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
